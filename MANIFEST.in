@@ -1,7 +1,0 @@
-# In this project this file is used to specify data files that are in a location outside of the 'starter' package, i.e. the data fules in the src/data directory.
-# You do not need this if your data files are within the package such as the resources directory
-# Do not use both methods for the coursework, this is
-include data_external/*.csv
-include data_external/*.sqlite
-include data_external/*.xlsx
-include data_external/*.db
